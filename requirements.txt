@@ -1,0 +1,8 @@
+pyqt6
+torch
+diffusers
+accelerate
+transformers
+pillow
+sentencepiece
+protobuf
